@@ -2,6 +2,7 @@
 
 This project is an interactive scroll-based animation web experience inspired by visual storytelling. The core idea is to create a dramatic, layered, and three-dimensional effect as users scroll through a sequence of images and text, with smooth transitions and engaging motion.
 
+<img width="1920" height="1080" alt="Screenshot 2026-02-13 160651" src="https://github.com/user-attachments/assets/e362eb48-ca88-43b7-a3e8-5c74382b1b39" />
 ---
 
 ## Overview
