@@ -14,8 +14,10 @@
     box-sizing: border-box;
 }
 
+html,
 body {
     font-family: "Instrument Serif", sans-serif;
+    overflow: hidden;
 }
 
 img {
